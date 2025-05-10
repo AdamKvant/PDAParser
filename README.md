@@ -5,7 +5,7 @@
 * **PDA:** Peak Dynamic Activity (of a muscle)
 
 ### Description
-PDAParser is a quaint CLI program that I created to aid a life-long friend, **<a href="https://www.linkedin.com/in/jacksonwatsonmed/">Jackson Watson D.O.'28</a>**, in processing data from his medical research lab. This program normalizes values from raw EMG data on muscles in the foot and lower leg, and puts them in an easily readable output file. This program was straightforward to create, and saved significant time in processing data from the lab. Information about the study can be found under **<a href=""> Study Information</a>**.
+PDAParser is a quaint CLI program that I created to aid a life-long friend, **<a href="https://www.linkedin.com/in/jacksonwatsonmed/">Jackson Watson D.O.'28</a>**, in processing data from his medical research lab. This program normalizes values from raw EMG data on muscles in the foot and lower leg, and puts them in an easily readable output file. This program was straightforward to create, and saved significant time in processing data from the lab. Information about the study can be found under **<a href="https://github.com/AdamKvant/PDAParser?tab=readme-ov-file#study-information"> Study Information</a>**.
 
 The program takes in a ZIP file containing `n` CSV files that are named according to a standardized naming scheme in sequential order. These CSV files are also rigorously structured, and this program is specifically tailored to read them.
 
